@@ -1,0 +1,23 @@
+# Blender 4.4.0 MTL File: 'None'
+# www.blender.org
+
+newmtl mat0
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd wire_135006006_diffuse.png
+map_Ks wire_135006006_specularGlossiness.png
+map_Bump wire_135006006_normal.png
+
+newmtl mat1
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd wire_177088027_diffuse.png
+map_Ks wire_177088027_specularGlossiness.png

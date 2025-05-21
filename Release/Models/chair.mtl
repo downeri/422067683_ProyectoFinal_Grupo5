@@ -1,0 +1,12 @@
+# Blender 4.4.0 MTL File: 'PuestoNuevo.blend'
+# www.blender.org
+
+newmtl Wood
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd wood 3.png
+map_d wood 3.png
